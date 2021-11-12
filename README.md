@@ -14,7 +14,7 @@ After the services have started, keycloak should be available at http://localhos
 2. Click on `Administration Console`
 3. Login with username `admin` and password `C0viwad2`
 4. On left panel, over `Master` and click on `Add realm` button
-5. Click on `Select File` and select the file `realm-export.json` in this repository
+5. Click on `Select File` and select the file `realm-export-V1.json` in this repository
 6. Click on `Create`
 7. Click user in top right corner > Manage account
 8. Click Personal Info and edit the email to : coviwad.alert@gmail.com and choose names
