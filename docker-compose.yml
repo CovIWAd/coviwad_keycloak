@@ -23,5 +23,7 @@ services:
       POSTGRES_PASSWORD: postgres
       POSTGRES_USER: postgres
       POSTGRES_DB: keycloak
+    ports:
+      - '5437:5432'
     volumes:
       - ./data:/var/lib/postgresql/data
